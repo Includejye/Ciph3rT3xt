@@ -1,0 +1,4 @@
+This is a confidential message for the PSB500IT Cryptography Coursework 2 project.
+
+The purpose of this file is to demonstrate encryption, decryption,
+hashing, message authentication and digital signatures.
