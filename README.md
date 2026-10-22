@@ -1,4 +1,4 @@
-# PSB500IT Secure Cryptography System
+ Secure Cryptography System
 
 ## Project Overview
 
